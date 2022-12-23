@@ -26,3 +26,18 @@ G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestAppli
 G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\bin\Debug\ServerDLLApp.dll
 G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\bin\Debug\ServerDLLApp.pdb
 G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\bin\Debug\ServerDLLApp.xml
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\bin\Debug\ServerTestApplication.exe.config
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\bin\Debug\ServerTestApplication.exe
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\bin\Debug\ServerTestApplication.pdb
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\bin\Debug\ServerTestApplication.xml
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\bin\Debug\ServerDLLApp.pdb
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\bin\Debug\ServerDLLApp.xml
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.vbproj.AssemblyReference.cache
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.Form1.resources
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.Resources.resources
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.vbproj.GenerateResource.cache
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.vbproj.CoreCompileInputs.cache
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.vbproj.CopyComplete
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.exe
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.xml
+C:\Lokesh\CGG\Github\Jella1980\Test_Chery\DG_REP2\DG_REP2\obj\Debug\ServerTestApplication.pdb

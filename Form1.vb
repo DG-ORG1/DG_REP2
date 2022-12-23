@@ -3,6 +3,10 @@
 
     Private Sub btnActivation_Click(sender As Object, e As EventArgs) Handles btnActivation.Click
 
+        Dim abc As String
+        abc = "123"
+
+
         '' This serverTest application is for demonstration purspose only. '
         'The server side testing can be done after Putting the ServerDLLApp in a folder on the server
         ' Therafter get the full key from Rajendra Nimje. Put the key in the application folder in licese.lic file
